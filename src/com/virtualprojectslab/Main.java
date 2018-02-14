@@ -17,6 +17,8 @@ public class Main {
 
         System.out.println(myPounds + " pounds equals " + myKiloGrams + " kilograms.");
 
+        //nekaj komatnarja, da vidimo kajs ezgodi
+
 
     }
 }
